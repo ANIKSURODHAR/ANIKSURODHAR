@@ -5,7 +5,7 @@ int main()
 { int cmd;
      float debit,credit,balance=0.0f;
 
-     printf("***Acme checkbook-balanceing program***\n");
+     printf("***checkbook-balanceing program***\n");
         printf("commands: 0=clear,1=credit,2=Debit");
            printf("3=Balance, 4=Exit\n\n");
 
