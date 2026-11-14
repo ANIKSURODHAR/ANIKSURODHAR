@@ -28,7 +28,6 @@
 
 - 🧩 Exploring: **Web App Pentesting**, **Web Security Tools**
 - 🧠 Improving: **Problem Solving**
-- 📱 Building: **Mobile Apps with Flutter**
 - 🛠️ Interested in: **Security + Development** (building & breaking)
 
 ---
